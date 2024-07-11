@@ -1,0 +1,22 @@
+[
+  {
+    "Team A": "Argentina",
+    "Team B": "Australia",
+    "Last 3": "Draw",
+    "Last 2": "Australia",
+    "Last 1": "Draw",
+    "Olympics Domination": "Australia",
+    "World Cup Domination": "Argentina",
+    "FIH Pro League Domination": "Australia",
+    "H2H A": 1,
+    "H2H B": 12,
+    "H2H Draw": 5,
+    "Team A Rank": 7,
+    "Team B Rank": 5,
+    "Win Percent A": 0.13,
+    "Win Percent B": 0.65,
+    "Draw Percent": 0.21999999999999997,
+    "Team A BP": "Matías Paredes",
+    "Team B BP": "Blake Govers"
+  }
+]

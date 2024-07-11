@@ -1,0 +1,405 @@
+Team A,Team B,Last 3,Last 2,Last 1,Olympics Domination,World Cup Domination,FIH Pro League Domination,H2H A,H2H B,H2H Draw,Team A Rank,Team B Rank,Win Percent A,Win Percent B,Draw Percent,Team A BP,Team B BP
+Argentina,Australia,Draw,Australia,Draw,Australia,Argentina,Australia,1,12,5,7,5,0.13,0.65,0.21999999999999997,Matías Paredes,Blake Govers
+Argentina,Belarus,-,-,Argentina,Draw,Argentina,Draw,1,0,0,7,35,0.71,0.06,0.23000000000000004,Matías Paredes,Mikhail Stefanovich
+Argentina,Belgium,Belgium,Argentina,Belgium,Draw,Argentina,Belgium,5,5,0,7,2,0.38,0.38,0.24,Matías Paredes,Tom Boon
+Argentina,Brazil,-,-,-,-,-,-,-,-,-,7,32,0.79,0.03,0.17999999999999997,Matías Paredes,Yuri van der Heijden
+Argentina,Canada,Canada,Argentina,Argentina,Draw,Argentina,Draw,2,1,0,7,19,0.48,0.28,0.24,Matías Paredes,Taylor Curran
+Argentina,Chile,-,-,Argentina,Draw,Argentina,Draw,1,0,0,7,22,0.3,0.0,0.7,Matías Paredes,Martín Rodríguez
+Argentina,China,-,-,-,-,-,-,-,-,-,7,23,0.52,0.24,0.24,Matías Paredes,Chongong Chen
+Argentina,Cuba,-,-,-,-,-,-,-,-,-,7,38,0.63,0.14,0.22999999999999998,Matías Paredes,Carlos Consuegra
+Argentina,Egypt,Argentina,Argentina,Argentina,Argentina,Draw,Draw,3,0,0,7,17,0.61,0.12,0.27,Matías Paredes,Amr Sayed
+Argentina,England,England,Argentina,Argentina,Draw,Argentina,Argentina,4,1,1,7,6,0.57,0.19,0.24000000000000005,Matías Paredes,David Condon
+Argentina,France,Argentina,France,Draw,Draw,Argentina,Draw,1,3,1,7,9,0.3,0.45,0.24999999999999994,Matías Paredes,Viktor Lockwood
+Argentina,Germany,Germany,Draw,Draw,Germany,Argentina,Germany,2,10,7,7,3,0.22,0.55,0.22999999999999998,Matías Paredes,Björn Michel
+Argentina,Great Britain,Draw,Argentina,Draw,Great Britain,Draw,Argentina,2,4,3,7,6,0.22,0.55,0.22999999999999998,Matías Paredes,Alan Forsyth
+Argentina,India,Draw,India,India,India,Argentina,India,5,10,5,7,4,0.26,0.5,0.24,Matías Paredes,Harmanpreet Singh
+Argentina,Ireland,-,Argentina,Argentina,Argentina,Argentina,Draw,2,0,0,7,12,0.64,0.13,0.22999999999999998,Matías Paredes,Shane O'Donoghue
+Argentina,Japan,Japan,Japan,Argentina,Argentina,Argentina,Draw,1,2,0,7,16,0.32,0.44,0.23999999999999994,Matías Paredes,Koji Yamasaki
+Argentina,Kenya,-,-,Argentina,Argentina,Draw,Draw,1,0,0,7,70,0.65,0.03,0.31999999999999995,Matías Paredes,Wakhura Constant
+Argentina,Korea,Korea,Argentina,Draw,Draw,Draw,Draw,1,1,3,7,11,0.47,0.27,0.26,Matías Paredes,Jang Jong-hyun
+Argentina,Malaysia,Malaysia,Malaysia,Draw,Malaysia,Draw,Draw,0,2,1,7,13,0.2,0.47,0.33000000000000007,Matías Paredes,Razie Rahim
+Argentina,Netherlands,Draw,Netherlands,Draw,Netherlands,Argentina,Netherlands,1,10,7,7,1,0.21,0.56,0.22999999999999998,Matías Paredes,Jeroen Hertzberger
+Argentina,New Zealand,Argentina,Argentina,Draw,New Zealand,Argentina,Argentina,9,4,1,7,10,0.49,0.27,0.24,Matías Paredes,Kane Russell
+Argentina,Pakistan,Argentina,Argentina,Pakistan,Pakistan,Draw,Draw,2,5,0,7,15,0.16,0.62,0.21999999999999997,Matías Paredes,Muhammad Umar Bhutta
+Argentina,Poland,-,-,Draw,Draw,Draw,Draw,0,0,1,7,28,0.2,0.22,0.5800000000000001,Matías Paredes,Mikołaj Gumny
+Argentina,Russia,-,Russia,Russia,Russia,Argentina,Draw,0,2,0,7,25,0.08,0.72,0.20000000000000007,Matías Paredes,Loginov Iaroslav
+Argentina,South Africa,Argentina,Draw,Argentina,Argentina,Argentina,Argentina,6,1,1,7,14,0.58,0.18,0.24000000000000005,Matías Paredes,Jethro Eustice
+Argentina,Spain,Argentina,Spain,Argentina,Argentina,Argentina,Argentina,11,4,3,7,8,0.51,0.26,0.22999999999999998,Matías Paredes,Álvaro Iglesias
+Argentina,United States,-,-,Argentina,Argentina,Draw,Draw,1,0,0,7,24,0.55,0.09,0.36,Matías Paredes,Ajai Dhadwal
+Argentina,Wales,-,-,Argentina,Draw,Argentina,Draw,1,0,0,7,18,0.57,0.0,0.43000000000000005,Matías Paredes,Lewis Prosser
+Australia,Belarus,-,-,Australia,Draw,Australia,Draw,1,0,0,5,35,0.81,0.0,0.18999999999999995,Blake Govers,Mikhail Stefanovich
+Australia,Belgium,Draw,Belgium,Belgium,Belgium,Australia,Belgium,3,5,2,5,2,0.32,0.45,0.22999999999999993,Blake Govers,Tom Boon
+Australia,Brazil,-,-,Australia,Australia,Draw,Draw,1,0,0,5,32,0.21,0.0,0.79,Blake Govers,Yuri van der Heijden
+Australia,Canada,-,Australia,Australia,Australia,Draw,Draw,2,0,0,5,19,0.73,0.01,0.26,Blake Govers,Taylor Curran
+Australia,Chile,-,-,-,-,-,-,-,-,-,5,22,0.71,0.09,0.20000000000000004,Blake Govers,Martín Rodríguez
+Australia,China,-,-,Australia,Draw,Australia,Draw,1,0,0,5,23,0.08,0.0,0.92,Blake Govers,Chongong Chen
+Australia,Cuba,-,-,Australia,Draw,Australia,Draw,1,0,0,5,38,0.59,0.0,0.41000000000000003,Blake Govers,Carlos Consuegra
+Australia,Egypt,-,-,Australia,Australia,Draw,Draw,1,0,0,5,17,0.65,0.03,0.31999999999999995,Blake Govers,Amr Sayed
+Australia,England,Australia,Australia,Australia,Draw,Australia,Draw,5,1,0,5,6,0.77,0.04,0.18999999999999997,Blake Govers,David Condon
+Australia,France,Australia,Australia,Australia,Draw,Australia,Draw,3,0,0,5,9,0.73,0.01,0.26,Blake Govers,Viktor Lockwood
+Australia,Germany,Germany,Australia,Germany,Australia,Draw,Australia,9,6,1,5,3,0.47,0.3,0.23000000000000004,Blake Govers,Björn Michel
+Australia,Great Britain,Australia,Great Britain,Draw,Australia,Draw,Australia,7,3,5,5,6,0.56,0.2,0.23999999999999994,Blake Govers,Alan Forsyth
+Australia,India,Draw,Australia,Draw,Australia,Australia,Australia,11,1,5,5,4,0.55,0.19,0.25999999999999995,Blake Govers,Harmanpreet Singh
+Australia,Ireland,Australia,Australia,Australia,Draw,Australia,Australia,3,0,0,5,12,0.77,0.04,0.18999999999999997,Blake Govers,Shane O'Donoghue
+Australia,Japan,Australia,Australia,Australia,Australia,Australia,Draw,3,0,0,5,16,0.65,0.07,0.27999999999999997,Blake Govers,Koji Yamasaki
+Australia,Kenya,-,-,Australia,Australia,Draw,Draw,1,0,0,5,70,0.41,0.01,0.5800000000000001,Blake Govers,Wakhura Constant
+Australia,Korea,Australia,Australia,Australia,Australia,Australia,Draw,4,0,0,5,11,0.58,0.18,0.24000000000000005,Blake Govers,Jang Jong-hyun
+Australia,Malaysia,Australia,Australia,Australia,Australia,Australia,Draw,5,0,0,5,13,0.82,0.01,0.17000000000000004,Blake Govers,Razie Rahim
+Australia,Netherlands,Netherlands,Netherlands,Australia,Netherlands,Australia,Australia,11,9,5,5,1,0.44,0.32,0.24000000000000005,Blake Govers,Jeroen Hertzberger
+Australia,New Zealand,Australia,Australia,Australia,Australia,Australia,Australia,10,1,0,5,10,0.67,0.09,0.23999999999999996,Blake Govers,Kane Russell
+Australia,Pakistan,Australia,Australia,Australia,Australia,Draw,Draw,7,3,0,5,15,0.67,0.12,0.20999999999999996,Blake Govers,Muhammad Umar Bhutta
+Australia,Poland,-,Australia,Australia,Australia,Australia,Draw,2,0,0,5,28,0.73,0.01,0.26,Blake Govers,Mikołaj Gumny
+Australia,Russia,-,-,Australia,Draw,Australia,Draw,1,0,0,5,25,0.88,0.0,0.12,Blake Govers,Loginov Iaroslav
+Australia,South Africa,Australia,Australia,Australia,Australia,Australia,Draw,5,0,1,5,14,0.43,0.01,0.56,Blake Govers,Jethro Eustice
+Australia,Spain,Australia,Australia,Australia,Australia,Australia,Draw,11,7,2,5,8,0.49,0.28,0.22999999999999998,Blake Govers,Álvaro Iglesias
+Australia,United States,-,-,Australia,Australia,Draw,Draw,1,0,0,5,24,0.61,0.16,0.23,Blake Govers,Ajai Dhadwal
+Australia,Wales,-,-,-,-,-,-,-,-,-,5,18,0.71,0.08,0.21000000000000002,Blake Govers,Lewis Prosser
+Belarus,Belgium,-,-,Belgium,Draw,Belarus,Draw,0,1,0,35,2,0.0,0.56,0.43999999999999995,Mikhail Stefanovich,Tom Boon
+Belarus,Brazil,-,-,-,-,-,-,-,-,-,35,32,0.35,0.1,0.55,Mikhail Stefanovich,Yuri van der Heijden
+Belarus,Canada,-,-,-,-,-,-,-,-,-,35,19,0.17,0.49,0.33999999999999997,Mikhail Stefanovich,Taylor Curran
+Belarus,Chile,-,-,-,-,-,-,-,-,-,35,22,0.2,0.42,0.38000000000000006,Mikhail Stefanovich,Martín Rodríguez
+Belarus,China,-,-,-,-,-,-,-,-,-,35,23,0.16,0.53,0.30999999999999994,Mikhail Stefanovich,Chongong Chen
+Belarus,Cuba,-,-,-,-,-,-,-,-,-,35,38,0.23,0.37,0.4,Mikhail Stefanovich,Carlos Consuegra
+Belarus,Egypt,-,-,-,-,-,-,-,-,-,35,17,0.21,0.39,0.4,Mikhail Stefanovich,Amr Sayed
+Belarus,England,-,-,England,Draw,Belarus,Draw,0,1,0,35,6,0.0,0.56,0.43999999999999995,Mikhail Stefanovich,David Condon
+Belarus,France,-,-,-,-,-,-,-,-,-,35,9,0.12,0.63,0.25,Mikhail Stefanovich,Viktor Lockwood
+Belarus,Germany,-,-,-,-,-,-,-,-,-,35,3,0.07,0.74,0.18999999999999995,Mikhail Stefanovich,Björn Michel
+Belarus,Great Britain,-,-,-,-,-,-,-,-,-,35,6,0.09,0.7,0.21000000000000008,Mikhail Stefanovich,Alan Forsyth
+Belarus,India,-,-,-,-,-,-,-,-,-,35,4,0.07,0.74,0.18999999999999995,Mikhail Stefanovich,Harmanpreet Singh
+Belarus,Ireland,-,-,-,-,-,-,-,-,-,35,12,0.2,0.42,0.38000000000000006,Mikhail Stefanovich,Shane O'Donoghue
+Belarus,Japan,-,-,-,-,-,-,-,-,-,35,16,0.13,0.59,0.28,Mikhail Stefanovich,Koji Yamasaki
+Belarus,Kenya,-,-,-,-,-,-,-,-,-,35,70,0.19,0.44,0.37000000000000005,Mikhail Stefanovich,Wakhura Constant
+Belarus,Korea,-,-,-,-,-,-,-,-,-,35,11,0.1,0.68,0.21999999999999997,Mikhail Stefanovich,Jang Jong-hyun
+Belarus,Malaysia,-,-,-,-,-,-,-,-,-,35,13,0.14,0.58,0.28,Mikhail Stefanovich,Razie Rahim
+Belarus,Netherlands,-,-,-,-,-,-,-,-,-,35,1,0.05,0.77,0.17999999999999994,Mikhail Stefanovich,Jeroen Hertzberger
+Belarus,New Zealand,-,-,-,-,-,-,-,-,-,35,10,0.11,0.64,0.25,Mikhail Stefanovich,Kane Russell
+Belarus,Pakistan,-,-,Pakistan,Draw,Belarus,Draw,0,1,0,35,15,0.0,0.82,0.18000000000000005,Mikhail Stefanovich,Muhammad Umar Bhutta
+Belarus,Poland,-,-,-,-,-,-,-,-,-,35,28,0.11,0.65,0.24,Mikhail Stefanovich,Mikołaj Gumny
+Belarus,Russia,-,-,-,-,-,-,-,-,-,35,25,0.09,0.69,0.22000000000000008,Mikhail Stefanovich,Loginov Iaroslav
+Belarus,South Africa,-,-,South Africa,Draw,Belarus,Draw,0,1,0,35,14,0.26,0.5,0.24,Mikhail Stefanovich,Jethro Eustice
+Belarus,Spain,-,-,Spain,Draw,Belarus,Draw,0,1,0,35,8,0.06,0.71,0.22999999999999998,Mikhail Stefanovich,Álvaro Iglesias
+Belarus,United States,-,-,-,-,-,-,-,-,-,35,24,0.23,0.36,0.41000000000000003,Mikhail Stefanovich,Ajai Dhadwal
+Belarus,Wales,-,-,-,-,-,-,-,-,-,35,18,0.2,0.42,0.38000000000000006,Mikhail Stefanovich,Lewis Prosser
+Belgium,Brazil,-,-,Belgium,Belgium,Draw,Draw,1,0,0,2,32,0.04,0.0,0.96,Tom Boon,Yuri van der Heijden
+Belgium,Canada,Belgium,Belgium,Belgium,Belgium,Belgium,Draw,4,0,0,2,19,0.7,0.05,0.25000000000000006,Tom Boon,Taylor Curran
+Belgium,Chile,-,-,-,-,-,-,-,-,-,2,22,0.68,0.11,0.20999999999999996,Tom Boon,Martín Rodríguez
+Belgium,China,-,-,Belgium,Belgium,Draw,Draw,1,0,0,2,23,0.7,0.1,0.20000000000000004,Tom Boon,Chongong Chen
+Belgium,Cuba,-,-,-,-,-,-,-,-,-,2,38,0.72,0.09,0.19000000000000003,Tom Boon,Carlos Consuegra
+Belgium,Egypt,-,-,-,-,-,-,-,-,-,2,17,0.7,0.1,0.20000000000000004,Tom Boon,Amr Sayed
+Belgium,England,Belgium,Draw,Belgium,Draw,Draw,Belgium,2,1,1,2,6,0.68,0.09,0.22999999999999995,Tom Boon,David Condon
+Belgium,France,-,Belgium,Belgium,Draw,Draw,Belgium,2,0,0,2,9,0.64,0.14,0.21999999999999997,Tom Boon,Viktor Lockwood
+Belgium,Germany,Draw,Draw,Germany,Germany,Draw,Belgium,8,7,5,2,3,0.44,0.32,0.24000000000000005,Tom Boon,Björn Michel
+Belgium,Great Britain,Belgium,Great Britain,Belgium,Belgium,Draw,Belgium,6,1,1,2,6,0.57,0.2,0.23000000000000004,Tom Boon,Alan Forsyth
+Belgium,India,Belgium,Belgium,India,Belgium,Draw,Belgium,7,3,2,2,4,0.45,0.32,0.23000000000000004,Tom Boon,Harmanpreet Singh
+Belgium,Ireland,-,-,-,-,-,-,-,-,-,2,12,0.69,0.11,0.20000000000000007,Tom Boon,Shane O'Donoghue
+Belgium,Japan,-,-,Belgium,Draw,Belgium,Draw,1,0,0,2,16,0.39,0.01,0.6,Tom Boon,Koji Yamasaki
+Belgium,Kenya,-,-,-,-,-,-,-,-,-,2,70,0.67,0.12,0.20999999999999996,Tom Boon,Wakhura Constant
+Belgium,Korea,Korea,Belgium,Belgium,Draw,Draw,Draw,2,2,0,2,11,0.34,0.41,0.24999999999999994,Tom Boon,Jang Jong-hyun
+Belgium,Malaysia,-,-,Belgium,Draw,Belgium,Draw,1,0,0,2,13,0.47,0.05,0.48000000000000004,Tom Boon,Razie Rahim
+Belgium,Netherlands,Netherlands,Netherlands,Draw,Belgium,Belgium,Netherlands,3,9,4,2,1,0.17,0.59,0.24,Tom Boon,Jeroen Hertzberger
+Belgium,New Zealand,Belgium,Belgium,Belgium,New Zealand,Draw,Belgium,6,4,2,2,10,0.5,0.26,0.24,Tom Boon,Kane Russell
+Belgium,Pakistan,Pakistan,Pakistan,Belgium,Pakistan,Draw,Draw,1,2,0,2,15,0.33,0.43,0.23999999999999994,Tom Boon,Muhammad Umar Bhutta
+Belgium,Poland,-,-,Belgium,Draw,Belgium,Draw,1,0,0,2,28,0.56,0.19,0.24999999999999994,Tom Boon,Mikołaj Gumny
+Belgium,Russia,-,-,-,-,-,-,-,-,-,2,25,0.47,0.28,0.25,Tom Boon,Loginov Iaroslav
+Belgium,South Africa,Belgium,Belgium,Belgium,Belgium,Belgium,Belgium,4,2,1,2,14,0.53,0.17,0.29999999999999993,Tom Boon,Jethro Eustice
+Belgium,Spain,Belgium,Belgium,Belgium,Belgium,Draw,Belgium,11,2,3,2,8,0.58,0.17,0.25,Tom Boon,Álvaro Iglesias
+Belgium,United States,-,-,-,-,-,-,-,-,-,2,24,0.72,0.09,0.19000000000000003,Tom Boon,Ajai Dhadwal
+Belgium,Wales,-,-,-,-,-,-,-,-,-,2,18,0.69,0.11,0.20000000000000007,Tom Boon,Lewis Prosser
+Brazil,Canada,-,-,-,-,-,-,-,-,-,32,19,0.06,0.6,0.33999999999999997,Yuri van der Heijden,Taylor Curran
+Brazil,Chile,-,-,-,-,-,-,-,-,-,32,22,0.07,0.52,0.4099999999999999,Yuri van der Heijden,Martín Rodríguez
+Brazil,China,-,-,-,-,-,-,-,-,-,32,23,0.05,0.64,0.30999999999999994,Yuri van der Heijden,Chongong Chen
+Brazil,Cuba,-,-,-,-,-,-,-,-,-,32,38,0.08,0.46,0.46,Yuri van der Heijden,Carlos Consuegra
+Brazil,Egypt,-,-,-,-,-,-,-,-,-,32,17,0.07,0.49,0.43999999999999995,Yuri van der Heijden,Amr Sayed
+Brazil,England,-,-,-,-,-,-,-,-,-,32,6,0.03,0.77,0.19999999999999996,Yuri van der Heijden,David Condon
+Brazil,France,-,-,-,-,-,-,-,-,-,32,9,0.04,0.73,0.22999999999999998,Yuri van der Heijden,Viktor Lockwood
+Brazil,Germany,-,-,-,-,-,-,-,-,-,32,3,0.02,0.82,0.16000000000000003,Yuri van der Heijden,Björn Michel
+Brazil,Great Britain,-,-,Great Britain,Great Britain,Draw,Draw,0,1,0,32,6,0.0,0.2,0.8,Yuri van der Heijden,Alan Forsyth
+Brazil,India,-,-,-,-,-,-,-,-,-,32,4,0.02,0.82,0.16000000000000003,Yuri van der Heijden,Harmanpreet Singh
+Brazil,Ireland,-,-,-,-,-,-,-,-,-,32,12,0.07,0.52,0.4099999999999999,Yuri van der Heijden,Shane O'Donoghue
+Brazil,Japan,-,-,-,-,-,-,-,-,-,32,16,0.04,0.7,0.26,Yuri van der Heijden,Koji Yamasaki
+Brazil,Kenya,-,-,-,-,-,-,-,-,-,32,70,0.07,0.55,0.3799999999999999,Yuri van der Heijden,Wakhura Constant
+Brazil,Korea,-,-,-,-,-,-,-,-,-,32,11,0.03,0.78,0.18999999999999995,Yuri van der Heijden,Jang Jong-hyun
+Brazil,Malaysia,-,-,-,-,-,-,-,-,-,32,13,0.04,0.69,0.27,Yuri van der Heijden,Razie Rahim
+Brazil,Netherlands,-,-,-,-,-,-,-,-,-,32,1,0.01,0.84,0.15000000000000002,Yuri van der Heijden,Jeroen Hertzberger
+Brazil,New Zealand,-,-,New Zealand,New Zealand,Draw,Draw,0,1,0,32,10,0.0,0.19,0.81,Yuri van der Heijden,Kane Russell
+Brazil,Pakistan,-,-,-,-,-,-,-,-,-,32,15,0.02,0.81,0.16999999999999993,Yuri van der Heijden,Muhammad Umar Bhutta
+Brazil,Poland,-,-,-,-,-,-,-,-,-,32,28,0.03,0.75,0.21999999999999997,Yuri van der Heijden,Mikołaj Gumny
+Brazil,Russia,-,-,-,-,-,-,-,-,-,32,25,0.03,0.79,0.17999999999999994,Yuri van der Heijden,Loginov Iaroslav
+Brazil,South Africa,-,-,-,-,-,-,-,-,-,32,14,0.04,0.72,0.24,Yuri van der Heijden,Jethro Eustice
+Brazil,Spain,-,-,Spain,Spain,Draw,Draw,0,1,0,32,8,0.0,0.42,0.5800000000000001,Yuri van der Heijden,Álvaro Iglesias
+Brazil,United States,-,-,-,-,-,-,-,-,-,32,24,0.08,0.46,0.46,Yuri van der Heijden,Ajai Dhadwal
+Brazil,Wales,-,-,-,-,-,-,-,-,-,32,18,0.07,0.52,0.4099999999999999,Yuri van der Heijden,Lewis Prosser
+Canada,Chile,-,-,-,-,-,-,-,-,-,19,22,0.4,0.29,0.31,Taylor Curran,Martín Rodríguez
+Canada,China,-,-,-,-,-,-,-,-,-,19,23,0.33,0.38,0.2899999999999999,Taylor Curran,Chongong Chen
+Canada,Cuba,-,-,-,-,-,-,-,-,-,19,38,0.43,0.25,0.32000000000000006,Taylor Curran,Carlos Consuegra
+Canada,Egypt,-,-,-,-,-,-,-,-,-,19,17,0.42,0.26,0.32000000000000006,Taylor Curran,Amr Sayed
+Canada,England,-,-,England,Draw,Canada,Draw,0,1,0,19,6,0.0,0.81,0.18999999999999995,Taylor Curran,David Condon
+Canada,France,-,-,-,-,-,-,-,-,-,19,9,0.26,0.48,0.26,Taylor Curran,Viktor Lockwood
+Canada,Germany,Germany,Germany,Germany,Germany,Canada,Draw,0,6,0,19,3,0.04,0.67,0.2899999999999999,Taylor Curran,Björn Michel
+Canada,Great Britain,Draw,Draw,Great Britain,Great Britain,Draw,Draw,0,3,2,19,6,0.13,0.65,0.21999999999999997,Taylor Curran,Alan Forsyth
+Canada,India,India,Draw,India,India,Canada,Draw,0,4,1,19,4,0.08,0.72,0.20000000000000007,Taylor Curran,Harmanpreet Singh
+Canada,Ireland,Canada,Draw,Ireland,Ireland,Canada,Draw,1,1,1,19,12,0.44,0.31,0.25000000000000006,Taylor Curran,Shane O'Donoghue
+Canada,Japan,-,-,-,-,-,-,-,-,-,19,16,0.28,0.45,0.26999999999999996,Taylor Curran,Koji Yamasaki
+Canada,Kenya,Kenya,Kenya,Canada,Kenya,Draw,Draw,1,2,0,19,70,0.38,0.37,0.25,Taylor Curran,Wakhura Constant
+Canada,Korea,-,Draw,Korea,Draw,Canada,Draw,0,1,1,19,11,0.06,0.6,0.33999999999999997,Taylor Curran,Jang Jong-hyun
+Canada,Malaysia,Malaysia,Canada,Draw,Draw,Draw,Draw,1,1,1,19,13,0.28,0.29,0.43,Taylor Curran,Razie Rahim
+Canada,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,Canada,Draw,0,8,0,19,1,0.04,0.67,0.2899999999999999,Taylor Curran,Jeroen Hertzberger
+Canada,New Zealand,-,Draw,New Zealand,Draw,Canada,Draw,0,1,1,19,10,0.29,0.47,0.24,Taylor Curran,Kane Russell
+Canada,Pakistan,Draw,Pakistan,Canada,Pakistan,Draw,Draw,1,3,1,19,15,0.15,0.63,0.21999999999999997,Taylor Curran,Muhammad Umar Bhutta
+Canada,Poland,-,-,Canada,Canada,Draw,Draw,1,0,0,19,28,0.51,0.25,0.24,Taylor Curran,Mikołaj Gumny
+Canada,Russia,-,-,Draw,Draw,Draw,Draw,0,0,1,19,25,0.0,0.0,1.0,Taylor Curran,Loginov Iaroslav
+Canada,South Africa,Canada,Draw,Draw,Canada,Draw,Draw,1,0,2,19,14,0.43,0.29,0.2800000000000001,Taylor Curran,Jethro Eustice
+Canada,Spain,Spain,Spain,Spain,Spain,Canada,Draw,0,3,0,19,8,0.0,0.81,0.18999999999999995,Taylor Curran,Álvaro Iglesias
+Canada,United States,-,-,-,-,-,-,-,-,-,19,24,0.43,0.24,0.33000000000000007,Taylor Curran,Ajai Dhadwal
+Canada,Wales,-,-,-,-,-,-,-,-,-,19,18,0.4,0.29,0.31,Taylor Curran,Lewis Prosser
+Chile,China,-,-,-,-,-,-,-,-,-,22,23,0.27,0.43,0.3,Martín Rodríguez,Chongong Chen
+Chile,Cuba,-,-,-,-,-,-,-,-,-,22,38,0.36,0.28,0.36,Martín Rodríguez,Carlos Consuegra
+Chile,Egypt,-,-,-,-,-,-,-,-,-,22,17,0.35,0.3,0.35000000000000003,Martín Rodríguez,Amr Sayed
+Chile,England,-,-,-,-,-,-,-,-,-,22,6,0.18,0.58,0.2400000000000001,Martín Rodríguez,David Condon
+Chile,France,-,-,France,Draw,Chile,Draw,0,1,0,22,9,0.15,0.57,0.28,Martín Rodríguez,Viktor Lockwood
+Chile,Germany,-,-,-,-,-,-,-,-,-,22,3,0.13,0.65,0.21999999999999997,Martín Rodríguez,Björn Michel
+Chile,Great Britain,-,-,-,-,-,-,-,-,-,22,6,0.16,0.61,0.22999999999999998,Martín Rodríguez,Alan Forsyth
+Chile,India,-,-,-,-,-,-,-,-,-,22,4,0.14,0.65,0.20999999999999996,Martín Rodríguez,Harmanpreet Singh
+Chile,Ireland,-,-,-,-,-,-,-,-,-,22,12,0.34,0.33,0.3299999999999999,Martín Rodríguez,Shane O'Donoghue
+Chile,Japan,-,-,-,-,-,-,-,-,-,22,16,0.23,0.49,0.28,Martín Rodríguez,Koji Yamasaki
+Chile,Kenya,-,-,-,-,-,-,-,-,-,22,70,0.32,0.35,0.32999999999999996,Martín Rodríguez,Wakhura Constant
+Chile,Korea,-,-,-,-,-,-,-,-,-,22,11,0.18,0.58,0.2400000000000001,Martín Rodríguez,Jang Jong-hyun
+Chile,Malaysia,-,-,Malaysia,Draw,Chile,Draw,0,1,0,22,13,0.26,0.51,0.22999999999999998,Martín Rodríguez,Razie Rahim
+Chile,Netherlands,-,-,Netherlands,Draw,Chile,Draw,0,1,0,22,1,0.0,0.02,0.98,Martín Rodríguez,Jeroen Hertzberger
+Chile,New Zealand,-,-,New Zealand,Draw,Chile,Draw,0,1,0,22,10,0.1,0.7,0.20000000000000007,Martín Rodríguez,Kane Russell
+Chile,Pakistan,-,-,-,-,-,-,-,-,-,22,15,0.15,0.63,0.21999999999999997,Martín Rodríguez,Muhammad Umar Bhutta
+Chile,Poland,-,-,-,-,-,-,-,-,-,22,28,0.2,0.55,0.25,Martín Rodríguez,Mikołaj Gumny
+Chile,Russia,-,-,-,-,-,-,-,-,-,22,25,0.17,0.6,0.22999999999999998,Martín Rodríguez,Loginov Iaroslav
+Chile,South Africa,-,-,-,-,-,-,-,-,-,22,14,0.22,0.51,0.27,Martín Rodríguez,Jethro Eustice
+Chile,Spain,-,-,-,-,-,-,-,-,-,22,8,0.17,0.59,0.24,Martín Rodríguez,Álvaro Iglesias
+Chile,United States,-,-,-,-,-,-,-,-,-,22,24,0.37,0.28,0.35,Martín Rodríguez,Ajai Dhadwal
+Chile,Wales,-,-,-,-,-,-,-,-,-,22,18,0.34,0.33,0.3299999999999999,Martín Rodríguez,Lewis Prosser
+China,Cuba,-,-,-,-,-,-,-,-,-,23,38,0.47,0.23,0.30000000000000004,Chongong Chen,Carlos Consuegra
+China,Egypt,-,-,-,-,-,-,-,-,-,23,17,0.45,0.24,0.31000000000000005,Chongong Chen,Amr Sayed
+China,England,-,-,Draw,Draw,Draw,Draw,0,0,1,23,6,0.38,0.38,0.24,Chongong Chen,David Condon
+China,France,-,-,France,Draw,China,Draw,0,1,0,23,9,0.0,0.59,0.41000000000000003,Chongong Chen,Viktor Lockwood
+China,Germany,-,-,Germany,Germany,Draw,Draw,0,1,0,23,3,0.06,0.71,0.22999999999999998,Chongong Chen,Björn Michel
+China,Great Britain,-,-,-,-,-,-,-,-,-,23,6,0.23,0.53,0.24,Chongong Chen,Alan Forsyth
+China,India,-,-,-,-,-,-,-,-,-,23,4,0.2,0.58,0.22000000000000008,Chongong Chen,Harmanpreet Singh
+China,Ireland,-,-,Draw,Draw,Draw,Draw,0,0,1,23,12,0.31,0.35,0.33999999999999997,Chongong Chen,Shane O'Donoghue
+China,Japan,-,-,-,-,-,-,-,-,-,23,16,0.31,0.42,0.26999999999999996,Chongong Chen,Koji Yamasaki
+China,Kenya,-,-,-,-,-,-,-,-,-,23,70,0.42,0.28,0.30000000000000004,Chongong Chen,Wakhura Constant
+China,Korea,-,-,Korea,Korea,Draw,Draw,0,1,0,23,11,0.09,0.54,0.37,Chongong Chen,Jang Jong-hyun
+China,Malaysia,-,-,-,-,-,-,-,-,-,23,13,0.32,0.41,0.26999999999999996,Chongong Chen,Razie Rahim
+China,Netherlands,-,-,-,-,-,-,-,-,-,23,1,0.16,0.62,0.21999999999999997,Chongong Chen,Jeroen Hertzberger
+China,New Zealand,-,-,Draw,Draw,Draw,Draw,0,0,1,23,10,0.35,0.41,0.24000000000000005,Chongong Chen,Kane Russell
+China,Pakistan,-,-,-,-,-,-,-,-,-,23,15,0.22,0.55,0.22999999999999998,Chongong Chen,Muhammad Umar Bhutta
+China,Poland,-,-,-,-,-,-,-,-,-,23,28,0.27,0.48,0.25,Chongong Chen,Mikołaj Gumny
+China,Russia,-,-,-,-,-,-,-,-,-,23,25,0.24,0.52,0.24,Chongong Chen,Loginov Iaroslav
+China,South Africa,-,-,China,China,Draw,Draw,1,0,0,23,14,0.44,0.24,0.32000000000000006,Chongong Chen,Jethro Eustice
+China,Spain,-,-,Spain,Spain,Draw,Draw,0,1,0,23,8,0.18,0.58,0.2400000000000001,Chongong Chen,Álvaro Iglesias
+China,United States,-,-,-,-,-,-,-,-,-,23,24,0.47,0.22,0.31000000000000005,Chongong Chen,Ajai Dhadwal
+China,Wales,-,-,-,-,-,-,-,-,-,23,18,0.44,0.26,0.30000000000000004,Chongong Chen,Lewis Prosser
+Cuba,Egypt,-,-,-,-,-,-,-,-,-,38,17,0.3,0.34,0.35999999999999993,Carlos Consuegra,Amr Sayed
+Cuba,England,-,-,England,Draw,Cuba,Draw,0,1,0,38,6,0.0,0.45,0.55,Carlos Consuegra,David Condon
+Cuba,France,-,-,-,-,-,-,-,-,-,38,9,0.17,0.57,0.26,Carlos Consuegra,Viktor Lockwood
+Cuba,Germany,-,-,-,-,-,-,-,-,-,38,3,0.11,0.69,0.20000000000000007,Carlos Consuegra,Björn Michel
+Cuba,Great Britain,-,-,-,-,-,-,-,-,-,38,6,0.13,0.64,0.22999999999999998,Carlos Consuegra,Alan Forsyth
+Cuba,India,-,India,India,India,Cuba,Draw,0,2,0,38,4,0.0,0.27,0.73,Carlos Consuegra,Harmanpreet Singh
+Cuba,Ireland,-,-,-,-,-,-,-,-,-,38,12,0.29,0.36,0.35,Carlos Consuegra,Shane O'Donoghue
+Cuba,Japan,-,-,Japan,Draw,Cuba,Draw,0,1,0,38,16,0.15,0.57,0.28,Carlos Consuegra,Koji Yamasaki
+Cuba,Kenya,-,-,-,-,-,-,-,-,-,38,70,0.27,0.38,0.35,Carlos Consuegra,Wakhura Constant
+Cuba,Korea,-,-,Korea,Draw,Cuba,Draw,0,1,0,38,11,0.05,0.45,0.49999999999999994,Carlos Consuegra,Jang Jong-hyun
+Cuba,Malaysia,-,-,Malaysia,Draw,Cuba,Draw,0,1,0,38,13,0.16,0.56,0.2799999999999999,Carlos Consuegra,Razie Rahim
+Cuba,Netherlands,-,-,-,-,-,-,-,-,-,38,1,0.09,0.72,0.19000000000000006,Carlos Consuegra,Jeroen Hertzberger
+Cuba,New Zealand,-,-,-,-,-,-,-,-,-,38,10,0.17,0.58,0.25,Carlos Consuegra,Kane Russell
+Cuba,Pakistan,-,-,-,-,-,-,-,-,-,38,15,0.12,0.66,0.21999999999999997,Carlos Consuegra,Muhammad Umar Bhutta
+Cuba,Poland,Poland,Poland,Poland,Poland,Cuba,Draw,0,3,0,38,28,0.02,0.71,0.27,Carlos Consuegra,Mikołaj Gumny
+Cuba,Russia,-,-,Russia,Russia,Draw,Draw,0,1,0,38,25,0.0,0.07,0.9299999999999999,Carlos Consuegra,Loginov Iaroslav
+Cuba,South Africa,-,-,South Africa,Draw,Cuba,Draw,0,1,0,38,14,0.03,0.64,0.32999999999999996,Carlos Consuegra,Jethro Eustice
+Cuba,Spain,-,-,Spain,Spain,Draw,Draw,0,1,0,38,8,0.0,0.1,0.9,Carlos Consuegra,Álvaro Iglesias
+Cuba,United States,-,-,-,-,-,-,-,-,-,38,24,0.31,0.31,0.37999999999999995,Carlos Consuegra,Ajai Dhadwal
+Cuba,Wales,-,-,-,-,-,-,-,-,-,38,18,0.29,0.36,0.35,Carlos Consuegra,Lewis Prosser
+Egypt,England,-,-,-,-,-,-,-,-,-,17,6,0.16,0.6,0.24,Amr Sayed,David Condon
+Egypt,France,-,-,-,-,-,-,-,-,-,17,9,0.19,0.55,0.26,Amr Sayed,Viktor Lockwood
+Egypt,Germany,-,Germany,Germany,Germany,Draw,Draw,0,2,0,17,3,0.02,0.39,0.59,Amr Sayed,Björn Michel
+Egypt,Great Britain,-,Great Britain,Great Britain,Great Britain,Draw,Draw,0,2,0,17,6,0.06,0.76,0.17999999999999994,Amr Sayed,Alan Forsyth
+Egypt,India,-,-,India,India,Draw,Draw,0,1,0,17,4,0.17,0.59,0.24,Amr Sayed,Harmanpreet Singh
+Egypt,Ireland,-,-,-,-,-,-,-,-,-,17,12,0.31,0.34,0.3499999999999999,Amr Sayed,Shane O'Donoghue
+Egypt,Japan,-,-,-,-,-,-,-,-,-,17,16,0.21,0.52,0.27,Amr Sayed,Koji Yamasaki
+Egypt,Kenya,-,-,-,-,-,-,-,-,-,17,70,0.29,0.37,0.33999999999999997,Amr Sayed,Wakhura Constant
+Egypt,Korea,-,-,Korea,Korea,Draw,Draw,0,1,0,17,11,0.0,0.09,0.91,Amr Sayed,Jang Jong-hyun
+Egypt,Malaysia,-,-,-,-,-,-,-,-,-,17,13,0.22,0.5,0.28,Amr Sayed,Razie Rahim
+Egypt,Netherlands,-,-,-,-,-,-,-,-,-,17,1,0.09,0.71,0.20000000000000007,Amr Sayed,Jeroen Hertzberger
+Egypt,New Zealand,-,-,-,-,-,-,-,-,-,17,10,0.18,0.57,0.2500000000000001,Amr Sayed,Kane Russell
+Egypt,Pakistan,-,-,Pakistan,Pakistan,Draw,Draw,0,1,0,17,15,0.0,0.45,0.55,Amr Sayed,Muhammad Umar Bhutta
+Egypt,Poland,-,-,-,-,-,-,-,-,-,17,28,0.18,0.57,0.2500000000000001,Amr Sayed,Mikołaj Gumny
+Egypt,Russia,-,-,-,-,-,-,-,-,-,17,25,0.15,0.62,0.22999999999999998,Amr Sayed,Loginov Iaroslav
+Egypt,South Africa,-,-,South Africa,South Africa,Draw,Draw,0,1,0,17,14,0.02,0.64,0.33999999999999997,Amr Sayed,Jethro Eustice
+Egypt,Spain,-,-,Spain,Spain,Draw,Draw,0,1,0,17,8,0.0,0.88,0.12,Amr Sayed,Álvaro Iglesias
+Egypt,United States,-,-,-,-,-,-,-,-,-,17,24,0.34,0.3,0.35999999999999993,Amr Sayed,Ajai Dhadwal
+Egypt,Wales,-,-,-,-,-,-,-,-,-,17,18,0.31,0.35,0.33999999999999997,Amr Sayed,Lewis Prosser
+England,France,England,England,England,Draw,England,England,3,0,0,6,9,0.61,0.1,0.29000000000000004,David Condon,Viktor Lockwood
+England,Germany,England,Germany,Draw,Draw,England,Draw,1,4,1,6,3,0.24,0.52,0.24,David Condon,Björn Michel
+England,India,Draw,India,Draw,Draw,England,India,4,2,2,6,4,0.41,0.35,0.2400000000000001,David Condon,Harmanpreet Singh
+England,Ireland,-,England,England,Draw,England,Draw,2,0,0,6,12,0.7,0.1,0.20000000000000004,David Condon,Shane O'Donoghue
+England,Japan,-,-,Japan,Draw,England,Draw,0,1,0,6,16,0.18,0.58,0.2400000000000001,David Condon,Koji Yamasaki
+England,Kenya,-,-,-,-,-,-,-,-,-,6,70,0.56,0.2,0.23999999999999994,David Condon,Wakhura Constant
+England,Korea,England,England,Korea,Draw,England,Draw,2,1,0,6,11,0.56,0.16,0.2799999999999999,David Condon,Jang Jong-hyun
+England,Malaysia,England,Malaysia,England,Draw,England,Draw,2,1,0,6,13,0.5,0.25,0.25,David Condon,Razie Rahim
+England,Netherlands,Netherlands,Netherlands,Netherlands,Draw,England,Netherlands,0,5,0,6,1,0.15,0.59,0.26,David Condon,Jeroen Hertzberger
+England,New Zealand,-,England,England,Draw,England,Draw,2,0,0,6,10,0.61,0.17,0.22,David Condon,Kane Russell
+England,Pakistan,England,England,England,Draw,England,Draw,3,0,1,6,15,0.68,0.11,0.20999999999999996,David Condon,Muhammad Umar Bhutta
+England,Poland,-,-,England,Draw,England,Draw,1,0,0,6,28,0.56,0.0,0.43999999999999995,David Condon,Mikołaj Gumny
+England,Russia,-,-,England,Draw,England,Draw,1,0,0,6,25,0.59,0.0,0.41000000000000003,David Condon,Loginov Iaroslav
+England,South Africa,England,England,England,Draw,England,England,4,0,0,6,14,0.6,0.13,0.27,David Condon,Jethro Eustice
+England,Spain,England,England,England,Draw,England,England,3,2,2,6,8,0.52,0.25,0.22999999999999998,David Condon,Álvaro Iglesias
+England,United States,-,-,-,-,-,-,-,-,-,6,24,0.61,0.15,0.24000000000000002,David Condon,Ajai Dhadwal
+England,Wales,-,-,England,Draw,England,Draw,1,0,0,6,18,0.71,0.0,0.29000000000000004,David Condon,Lewis Prosser
+France,Germany,Germany,Germany,Germany,Draw,France,Germany,0,3,0,9,3,0.11,0.62,0.27,Viktor Lockwood,Björn Michel
+France,Great Britain,-,-,-,-,-,-,-,-,-,9,6,0.31,0.45,0.23999999999999994,Viktor Lockwood,Alan Forsyth
+France,India,France,India,France,Draw,France,Draw,2,1,0,9,4,0.32,0.44,0.23999999999999994,Viktor Lockwood,Harmanpreet Singh
+France,Ireland,-,-,-,-,-,-,-,-,-,9,12,0.54,0.2,0.25999999999999995,Viktor Lockwood,Shane O'Donoghue
+France,Japan,-,-,-,-,-,-,-,-,-,9,16,0.41,0.34,0.25000000000000006,Viktor Lockwood,Koji Yamasaki
+France,Kenya,-,-,-,-,-,-,-,-,-,9,70,0.52,0.22,0.26,Viktor Lockwood,Wakhura Constant
+France,Korea,-,-,-,-,-,-,-,-,-,9,11,0.33,0.42,0.24999999999999994,Viktor Lockwood,Jang Jong-hyun
+France,Malaysia,-,-,-,-,-,-,-,-,-,9,13,0.42,0.33,0.25000000000000006,Viktor Lockwood,Razie Rahim
+France,Netherlands,Netherlands,Draw,Netherlands,Draw,France,Netherlands,0,2,1,9,1,0.14,0.64,0.21999999999999997,Viktor Lockwood,Jeroen Hertzberger
+France,New Zealand,-,-,New Zealand,Draw,France,Draw,0,1,0,9,10,0.17,0.59,0.24,Viktor Lockwood,Kane Russell
+France,Pakistan,-,-,-,-,-,-,-,-,-,9,15,0.29,0.47,0.24,Viktor Lockwood,Muhammad Umar Bhutta
+France,Poland,-,-,-,-,-,-,-,-,-,9,28,0.36,0.4,0.24,Viktor Lockwood,Mikołaj Gumny
+France,Russia,-,-,Draw,Draw,Draw,Draw,0,0,1,9,25,0.0,0.0,1.0,Viktor Lockwood,Loginov Iaroslav
+France,South Africa,France,France,France,Draw,France,France,3,0,0,9,14,0.66,0.13,0.20999999999999996,Viktor Lockwood,Jethro Eustice
+France,Spain,Draw,Spain,Spain,Draw,France,Spain,1,2,1,9,8,0.3,0.46,0.23999999999999994,Viktor Lockwood,Álvaro Iglesias
+France,United States,-,-,-,-,-,-,-,-,-,9,24,0.57,0.17,0.26,Viktor Lockwood,Ajai Dhadwal
+France,Wales,-,-,Draw,Draw,Draw,Draw,0,0,1,9,18,0.39,0.37,0.24,Viktor Lockwood,Lewis Prosser
+Germany,Great Britain,Great Britain,Great Britain,Germany,Germany,Draw,Great Britain,8,6,0,3,6,0.46,0.3,0.24000000000000005,Björn Michel,Alan Forsyth
+Germany,India,India,India,India,Germany,Germany,India,6,5,3,3,4,0.38,0.38,0.24,Björn Michel,Harmanpreet Singh
+Germany,Ireland,-,Germany,Germany,Germany,Germany,Draw,2,0,0,3,12,0.71,0.08,0.21000000000000002,Björn Michel,Shane O'Donoghue
+Germany,Japan,-,-,Germany,Draw,Germany,Draw,1,0,0,3,16,0.88,0.0,0.12,Björn Michel,Koji Yamasaki
+Germany,Kenya,-,-,-,-,-,-,-,-,-,3,70,0.64,0.15,0.21,Björn Michel,Wakhura Constant
+Germany,Korea,Germany,Germany,Germany,Germany,Germany,Draw,5,0,5,3,11,0.61,0.17,0.22,Björn Michel,Jang Jong-hyun
+Germany,Malaysia,Germany,Germany,Germany,Germany,Germany,Draw,3,0,0,3,13,0.72,0.06,0.22000000000000003,Björn Michel,Razie Rahim
+Germany,Netherlands,Germany,Draw,Netherlands,Germany,Draw,Germany,10,8,7,3,1,0.41,0.33,0.26000000000000006,Björn Michel,Jeroen Hertzberger
+Germany,New Zealand,Germany,Germany,Germany,Germany,Germany,Germany,8,0,3,3,10,0.54,0.2,0.25999999999999995,Björn Michel,Kane Russell
+Germany,Pakistan,Germany,Germany,Germany,Germany,Germany,Draw,6,2,2,3,15,0.45,0.29,0.26000000000000006,Björn Michel,Muhammad Umar Bhutta
+Germany,Poland,-,-,-,-,-,-,-,-,-,3,28,0.48,0.29,0.23000000000000004,Björn Michel,Mikołaj Gumny
+Germany,Russia,-,-,-,-,-,-,-,-,-,3,25,0.43,0.33,0.24000000000000005,Björn Michel,Loginov Iaroslav
+Germany,South Africa,South Africa,Germany,Germany,South Africa,Germany,Germany,5,1,1,3,14,0.72,0.07,0.21000000000000002,Björn Michel,Jethro Eustice
+Germany,Spain,Draw,Spain,Spain,Germany,Draw,Germany,9,5,5,3,8,0.51,0.26,0.22999999999999998,Björn Michel,Álvaro Iglesias
+Germany,United States,-,Germany,Germany,Germany,Draw,Draw,2,0,0,3,24,0.86,0.0,0.14,Björn Michel,Ajai Dhadwal
+Germany,Wales,-,-,-,-,-,-,-,-,-,3,18,0.66,0.13,0.20999999999999996,Björn Michel,Lewis Prosser
+Great Britain,India,India,Great Britain,Draw,Great Britain,Draw,Great Britain,5,1,1,6,4,0.52,0.24,0.24,Alan Forsyth,Harmanpreet Singh
+Great Britain,Ireland,-,-,-,-,-,-,-,-,-,6,12,0.61,0.16,0.23,Alan Forsyth,Shane O'Donoghue
+Great Britain,Japan,-,-,-,-,-,-,-,-,-,6,16,0.48,0.28,0.24,Alan Forsyth,Koji Yamasaki
+Great Britain,Kenya,-,-,Great Britain,Great Britain,Draw,Draw,1,0,0,6,70,0.59,0.17,0.24000000000000002,Alan Forsyth,Wakhura Constant
+Great Britain,Korea,Draw,Korea,Great Britain,Draw,Draw,Draw,1,1,2,6,11,0.46,0.3,0.24000000000000005,Alan Forsyth,Jang Jong-hyun
+Great Britain,Malaysia,-,Draw,Draw,Draw,Draw,Draw,0,0,2,6,13,0.39,0.36,0.25,Alan Forsyth,Razie Rahim
+Great Britain,Netherlands,Draw,Great Britain,Netherlands,Netherlands,Draw,Netherlands,4,7,4,6,1,0.29,0.47,0.24,Alan Forsyth,Jeroen Hertzberger
+Great Britain,New Zealand,Great Britain,Great Britain,Great Britain,Great Britain,Draw,Great Britain,7,0,2,6,10,0.69,0.1,0.21000000000000005,Alan Forsyth,Kane Russell
+Great Britain,Pakistan,Pakistan,Great Britain,Great Britain,Pakistan,Draw,Draw,2,3,1,6,15,0.19,0.56,0.25,Alan Forsyth,Muhammad Umar Bhutta
+Great Britain,Poland,-,-,-,-,-,-,-,-,-,6,28,0.43,0.33,0.24000000000000005,Alan Forsyth,Mikołaj Gumny
+Great Britain,Russia,-,-,Great Britain,Great Britain,Draw,Draw,1,0,0,6,25,0.69,0.11,0.20000000000000007,Alan Forsyth,Loginov Iaroslav
+Great Britain,South Africa,Great Britain,Draw,Great Britain,Great Britain,Draw,Draw,3,0,2,6,14,0.62,0.14,0.24,Alan Forsyth,Jethro Eustice
+Great Britain,Spain,Great Britain,Great Britain,Spain,Spain,Draw,Great Britain,3,3,4,6,8,0.37,0.39,0.24,Alan Forsyth,Álvaro Iglesias
+Great Britain,United States,-,-,-,-,-,-,-,-,-,6,24,0.64,0.13,0.22999999999999998,Alan Forsyth,Ajai Dhadwal
+India,Ireland,India,India,India,India,Draw,India,3,0,0,4,12,0.74,0.07,0.19,Harmanpreet Singh,Shane O'Donoghue
+India,Japan,Draw,India,India,India,India,Draw,2,0,1,4,16,0.57,0.07,0.36000000000000004,Harmanpreet Singh,Koji Yamasaki
+India,Kenya,-,-,-,-,-,-,-,-,-,4,70,0.64,0.15,0.21,Harmanpreet Singh,Wakhura Constant
+India,Korea,Korea,Korea,India,Draw,Draw,Draw,4,4,1,4,11,0.45,0.31,0.24000000000000005,Harmanpreet Singh,Jang Jong-hyun
+India,Malaysia,India,Malaysia,India,India,Draw,Draw,4,1,0,4,13,0.61,0.17,0.22,Harmanpreet Singh,Razie Rahim
+India,Netherlands,Netherlands,Draw,Draw,Netherlands,India,Netherlands,2,11,4,4,1,0.26,0.51,0.22999999999999998,Harmanpreet Singh,Jeroen Hertzberger
+India,New Zealand,India,India,Draw,India,India,India,5,3,1,4,10,0.43,0.33,0.24000000000000005,Harmanpreet Singh,Kane Russell
+India,Pakistan,Draw,Pakistan,India,Pakistan,India,Draw,1,2,1,4,15,0.3,0.41,0.29,Harmanpreet Singh,Muhammad Umar Bhutta
+India,Poland,Draw,Draw,India,Draw,India,Draw,1,0,2,4,28,0.56,0.21,0.22999999999999995,Harmanpreet Singh,Mikołaj Gumny
+India,Russia,India,Russia,Draw,Draw,Draw,Draw,1,1,1,4,25,0.42,0.31,0.2700000000000001,Harmanpreet Singh,Loginov Iaroslav
+India,South Africa,India,India,India,Draw,India,India,6,1,3,4,14,0.61,0.1,0.29000000000000004,Harmanpreet Singh,Jethro Eustice
+India,Spain,India,Draw,India,India,India,Draw,9,4,4,4,8,0.46,0.3,0.24000000000000005,Harmanpreet Singh,Álvaro Iglesias
+India,United States,-,India,India,India,Draw,Draw,2,0,0,4,24,0.74,0.01,0.25,Harmanpreet Singh,Ajai Dhadwal
+India,Wales,-,-,India,Draw,India,Draw,1,0,0,4,18,0.58,0.14,0.28,Harmanpreet Singh,Lewis Prosser
+Ireland,Japan,-,-,-,-,-,-,-,-,-,12,16,0.23,0.5,0.27,Shane O'Donoghue,Koji Yamasaki
+Ireland,Kenya,-,-,-,-,-,-,-,-,-,12,70,0.32,0.35,0.32999999999999996,Shane O'Donoghue,Wakhura Constant
+Ireland,Korea,-,-,-,-,-,-,-,-,-,12,11,0.17,0.59,0.24,Shane O'Donoghue,Jang Jong-hyun
+Ireland,Malaysia,-,-,-,-,-,-,-,-,-,12,13,0.23,0.49,0.28,Shane O'Donoghue,Razie Rahim
+Ireland,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,Draw,Netherlands,0,3,0,12,1,0.03,0.77,0.19999999999999996,Shane O'Donoghue,Jeroen Hertzberger
+Ireland,New Zealand,-,-,-,-,-,-,-,-,-,12,10,0.2,0.55,0.25,Shane O'Donoghue,Kane Russell
+Ireland,Pakistan,-,-,Pakistan,Draw,Ireland,Draw,0,1,0,12,15,0.19,0.56,0.25,Shane O'Donoghue,Muhammad Umar Bhutta
+Ireland,Poland,-,-,-,-,-,-,-,-,-,12,28,0.19,0.56,0.25,Shane O'Donoghue,Mikołaj Gumny
+Ireland,Russia,-,-,-,-,-,-,-,-,-,12,25,0.16,0.6,0.24,Shane O'Donoghue,Loginov Iaroslav
+Ireland,South Africa,-,-,-,-,-,-,-,-,-,12,14,0.21,0.52,0.27,Shane O'Donoghue,Jethro Eustice
+Ireland,Spain,Spain,Spain,Spain,Draw,Ireland,Spain,0,3,0,12,8,0.04,0.7,0.26,Shane O'Donoghue,Álvaro Iglesias
+Ireland,United States,-,-,-,-,-,-,-,-,-,12,24,0.36,0.28,0.36,Shane O'Donoghue,Ajai Dhadwal
+Ireland,Wales,-,-,-,-,-,-,-,-,-,12,18,0.33,0.33,0.3399999999999999,Shane O'Donoghue,Lewis Prosser
+Japan,Kenya,-,-,-,-,-,-,-,-,-,16,70,0.48,0.25,0.27,Koji Yamasaki,Wakhura Constant
+Japan,Korea,-,Korea,Korea,Draw,Japan,Draw,0,2,0,16,11,0.06,0.76,0.17999999999999994,Koji Yamasaki,Jang Jong-hyun
+Japan,Malaysia,-,Malaysia,Malaysia,Draw,Japan,Draw,0,2,0,16,13,0.19,0.57,0.2400000000000001,Koji Yamasaki,Razie Rahim
+Japan,Netherlands,-,-,-,-,-,-,-,-,-,16,1,0.2,0.57,0.2300000000000001,Koji Yamasaki,Jeroen Hertzberger
+Japan,New Zealand,Draw,New Zealand,Draw,Draw,Japan,Draw,0,1,2,16,10,0.33,0.42,0.24999999999999994,Koji Yamasaki,Kane Russell
+Japan,Pakistan,-,-,Pakistan,Draw,Japan,Draw,0,1,0,16,15,0.0,0.83,0.17000000000000004,Koji Yamasaki,Muhammad Umar Bhutta
+Japan,Poland,-,-,Japan,Draw,Japan,Draw,1,0,0,16,28,0.55,0.2,0.24999999999999994,Koji Yamasaki,Mikołaj Gumny
+Japan,Russia,-,-,-,-,-,-,-,-,-,16,25,0.29,0.47,0.24,Koji Yamasaki,Loginov Iaroslav
+Japan,South Africa,-,-,Japan,Draw,Japan,Draw,1,0,0,16,14,0.54,0.08,0.37999999999999995,Koji Yamasaki,Jethro Eustice
+Japan,Spain,Spain,Spain,Spain,Spain,Japan,Draw,0,3,0,16,8,0.07,0.65,0.2799999999999999,Koji Yamasaki,Álvaro Iglesias
+Japan,United States,-,-,-,-,-,-,-,-,-,16,24,0.53,0.19,0.27999999999999997,Koji Yamasaki,Ajai Dhadwal
+Japan,Wales,-,-,-,-,-,-,-,-,-,16,18,0.5,0.23,0.27,Koji Yamasaki,Lewis Prosser
+Kenya,Korea,-,-,Korea,Korea,Draw,Draw,0,1,0,70,11,0.08,0.53,0.39,Wakhura Constant,Jang Jong-hyun
+Kenya,Malaysia,-,-,-,-,-,-,-,-,-,70,13,0.25,0.47,0.28,Wakhura Constant,Razie Rahim
+Kenya,Netherlands,-,Netherlands,Netherlands,Netherlands,Draw,Draw,0,2,0,70,1,0.06,0.76,0.17999999999999994,Wakhura Constant,Jeroen Hertzberger
+Kenya,New Zealand,-,-,New Zealand,New Zealand,Draw,Draw,0,1,0,70,10,0.06,0.71,0.22999999999999998,Wakhura Constant,Kane Russell
+Kenya,Pakistan,-,Pakistan,Pakistan,Pakistan,Draw,Draw,0,2,0,70,15,0.0,0.63,0.37,Wakhura Constant,Muhammad Umar Bhutta
+Kenya,Poland,-,-,-,-,-,-,-,-,-,70,28,0.21,0.54,0.25,Wakhura Constant,Mikołaj Gumny
+Kenya,Russia,-,-,-,-,-,-,-,-,-,70,25,0.18,0.59,0.2300000000000001,Wakhura Constant,Loginov Iaroslav
+Kenya,South Africa,-,-,-,-,-,-,-,-,-,70,14,0.23,0.5,0.27,Wakhura Constant,Jethro Eustice
+Kenya,Spain,-,-,Spain,Spain,Draw,Draw,0,1,0,70,8,0.15,0.56,0.2899999999999999,Wakhura Constant,Álvaro Iglesias
+Kenya,United States,-,-,Draw,Draw,Draw,Draw,0,0,1,70,24,0.35,0.31,0.34,Wakhura Constant,Ajai Dhadwal
+Kenya,Wales,-,-,-,-,-,-,-,-,-,70,18,0.35,0.32,0.33,Wakhura Constant,Lewis Prosser
+Korea,Malaysia,-,Korea,Korea,Korea,Korea,Draw,2,0,0,11,13,0.56,0.18,0.25999999999999995,Jang Jong-hyun,Razie Rahim
+Korea,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,Korea,Draw,2,6,1,11,1,0.22,0.54,0.24,Jang Jong-hyun,Jeroen Hertzberger
+Korea,New Zealand,New Zealand,Korea,New Zealand,New Zealand,Korea,Draw,1,4,0,11,10,0.28,0.48,0.24,Jang Jong-hyun,Kane Russell
+Korea,Pakistan,Korea,Pakistan,Pakistan,Draw,Draw,Draw,2,2,0,11,15,0.32,0.43,0.24999999999999994,Jang Jong-hyun,Muhammad Umar Bhutta
+Korea,Poland,-,Korea,Korea,Korea,Korea,Draw,2,0,0,11,28,0.72,0.07,0.21000000000000002,Jang Jong-hyun,Mikołaj Gumny
+Korea,Russia,-,-,Russia,Russia,Draw,Draw,0,1,0,11,25,0.09,0.71,0.20000000000000007,Jang Jong-hyun,Loginov Iaroslav
+Korea,South Africa,Draw,Draw,Draw,Draw,Draw,Draw,0,0,4,11,14,0.35,0.35,0.30000000000000004,Jang Jong-hyun,Jethro Eustice
+Korea,Spain,Spain,Spain,Spain,Spain,Korea,Draw,0,4,2,11,8,0.16,0.58,0.26,Jang Jong-hyun,Álvaro Iglesias
+Korea,United States,-,-,-,-,-,-,-,-,-,11,24,0.62,0.14,0.24,Jang Jong-hyun,Ajai Dhadwal
+Korea,Wales,-,-,-,-,-,-,-,-,-,11,18,0.59,0.18,0.23000000000000004,Jang Jong-hyun,Lewis Prosser
+Malaysia,Netherlands,Draw,Netherlands,Netherlands,Netherlands,Malaysia,Draw,0,5,1,13,1,0.0,0.86,0.14,Razie Rahim,Jeroen Hertzberger
+Malaysia,New Zealand,-,Malaysia,Malaysia,Malaysia,Malaysia,Draw,2,0,0,13,10,0.52,0.24,0.24,Razie Rahim,Kane Russell
+Malaysia,Pakistan,Draw,Pakistan,Draw,Pakistan,Malaysia,Draw,0,2,2,13,15,0.2,0.57,0.2300000000000001,Razie Rahim,Muhammad Umar Bhutta
+Malaysia,Poland,-,Malaysia,Draw,Malaysia,Draw,Draw,1,0,1,13,28,0.45,0.31,0.24000000000000005,Razie Rahim,Mikołaj Gumny
+Malaysia,Russia,-,-,-,-,-,-,-,-,-,13,25,0.28,0.48,0.24,Razie Rahim,Loginov Iaroslav
+Malaysia,South Africa,Draw,South Africa,South Africa,Draw,Malaysia,Draw,0,2,1,13,14,0.14,0.52,0.33999999999999997,Razie Rahim,Jethro Eustice
+Malaysia,Spain,Spain,Spain,Draw,Spain,Malaysia,Draw,0,5,1,13,8,0.15,0.63,0.21999999999999997,Razie Rahim,Álvaro Iglesias
+Malaysia,United States,Malaysia,Draw,Malaysia,Malaysia,Draw,Draw,2,0,1,13,24,0.6,0.15,0.25,Razie Rahim,Ajai Dhadwal
+Malaysia,Wales,-,-,-,-,-,-,-,-,-,13,18,0.49,0.23,0.28,Razie Rahim,Lewis Prosser
+Netherlands,New Zealand,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,11,1,2,1,10,0.65,0.14,0.20999999999999996,Jeroen Hertzberger,Kane Russell
+Netherlands,Pakistan,Pakistan,Netherlands,Netherlands,Pakistan,Netherlands,Draw,5,5,2,1,15,0.45,0.32,0.23000000000000004,Jeroen Hertzberger,Muhammad Umar Bhutta
+Netherlands,Poland,-,-,-,-,-,-,-,-,-,1,28,0.52,0.24,0.24,Jeroen Hertzberger,Mikołaj Gumny
+Netherlands,Russia,-,-,Netherlands,Draw,Netherlands,Draw,1,0,0,1,25,0.55,0.1,0.35,Jeroen Hertzberger,Loginov Iaroslav
+Netherlands,South Africa,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,Netherlands,10,0,0,1,14,0.62,0.03,0.35,Jeroen Hertzberger,Jethro Eustice
+Netherlands,Spain,Draw,Netherlands,Netherlands,Netherlands,Draw,Netherlands,10,0,5,1,8,0.58,0.2,0.22000000000000003,Jeroen Hertzberger,Álvaro Iglesias
+Netherlands,United States,-,-,-,-,-,-,-,-,-,1,24,0.72,0.08,0.2,Jeroen Hertzberger,Ajai Dhadwal
+Netherlands,Wales,-,-,-,-,-,-,-,-,-,1,18,0.69,0.1,0.21000000000000005,Jeroen Hertzberger,Lewis Prosser
+New Zealand,Pakistan,Pakistan,Draw,New Zealand,Pakistan,New Zealand,Draw,1,4,2,10,15,0.26,0.5,0.24,Kane Russell,Muhammad Umar Bhutta
+New Zealand,Poland,-,-,-,-,-,-,-,-,-,10,28,0.37,0.38,0.25,Kane Russell,Mikołaj Gumny
+New Zealand,Russia,-,-,-,-,-,-,-,-,-,10,25,0.33,0.43,0.23999999999999994,Kane Russell,Loginov Iaroslav
+New Zealand,South Africa,New Zealand,Draw,New Zealand,New Zealand,New Zealand,Draw,3,0,1,10,14,0.64,0.12,0.24,Kane Russell,Jethro Eustice
+New Zealand,Spain,Spain,Spain,Draw,Draw,New Zealand,Spain,4,8,5,10,8,0.27,0.49,0.24,Kane Russell,Álvaro Iglesias
+New Zealand,United States,-,-,-,-,-,-,-,-,-,10,24,0.58,0.16,0.26,Kane Russell,Ajai Dhadwal
+New Zealand,Wales,-,-,-,-,-,-,-,-,-,10,18,0.55,0.2,0.24999999999999994,Kane Russell,Lewis Prosser
+Pakistan,Poland,-,-,-,-,-,-,-,-,-,15,28,0.45,0.31,0.24000000000000005,Muhammad Umar Bhutta,Mikołaj Gumny
+Pakistan,Russia,-,-,Pakistan,Pakistan,Draw,Draw,1,0,0,15,25,0.56,0.0,0.43999999999999995,Muhammad Umar Bhutta,Loginov Iaroslav
+Pakistan,South Africa,Pakistan,South Africa,Pakistan,Pakistan,Draw,Draw,3,1,0,15,14,0.53,0.17,0.29999999999999993,Muhammad Umar Bhutta,Jethro Eustice
+Pakistan,Spain,Draw,Pakistan,Draw,Draw,Pakistan,Draw,6,2,3,15,8,0.52,0.24,0.24,Muhammad Umar Bhutta,Álvaro Iglesias
+Pakistan,United States,-,-,Pakistan,Pakistan,Draw,Draw,1,0,0,15,24,0.82,0.0,0.18000000000000005,Muhammad Umar Bhutta,Ajai Dhadwal
+Pakistan,Wales,-,-,-,-,-,-,-,-,-,15,18,0.63,0.15,0.22,Muhammad Umar Bhutta,Lewis Prosser
+Poland,Russia,-,Russia,Russia,Russia,Draw,Draw,0,2,0,28,25,0.07,0.72,0.20999999999999996,Mikołaj Gumny,Loginov Iaroslav
+Poland,South Africa,-,-,-,-,-,-,-,-,-,28,14,0.41,0.34,0.25000000000000006,Mikołaj Gumny,Jethro Eustice
+Poland,Spain,-,Spain,Poland,Draw,Draw,Draw,1,1,0,28,8,0.19,0.55,0.26,Mikołaj Gumny,Álvaro Iglesias
+Poland,United States,-,-,-,-,-,-,-,-,-,28,24,0.59,0.16,0.25,Mikołaj Gumny,Ajai Dhadwal
+Poland,Wales,-,-,-,-,-,-,-,-,-,28,18,0.56,0.19,0.24999999999999994,Mikołaj Gumny,Lewis Prosser
+Russia,South Africa,-,-,-,-,-,-,-,-,-,25,14,0.46,0.3,0.24000000000000005,Loginov Iaroslav,Jethro Eustice
+Russia,Spain,-,Spain,Russia,Spain,Russia,Draw,1,1,0,25,8,0.57,0.18,0.25000000000000006,Loginov Iaroslav,Álvaro Iglesias
+Russia,United States,-,-,-,-,-,-,-,-,-,25,24,0.64,0.14,0.21999999999999997,Loginov Iaroslav,Ajai Dhadwal
+Russia,Wales,-,-,-,-,-,-,-,-,-,25,18,0.6,0.17,0.23,Loginov Iaroslav,Lewis Prosser
+South Africa,Spain,Spain,Spain,Spain,Spain,South Africa,Spain,0,5,1,14,8,0.15,0.62,0.22999999999999998,Jethro Eustice,Álvaro Iglesias
+South Africa,United States,-,-,South Africa,South Africa,Draw,Draw,1,0,0,14,24,0.88,0.0,0.12,Jethro Eustice,Ajai Dhadwal
+South Africa,Wales,-,-,-,-,-,-,-,-,-,14,18,0.52,0.22,0.26,Jethro Eustice,Lewis Prosser
+Spain,United States,-,Spain,Spain,Spain,Draw,Draw,2,0,0,8,24,0.65,0.03,0.31999999999999995,Álvaro Iglesias,Ajai Dhadwal
+Spain,Wales,-,-,Spain,Draw,Spain,Draw,1,0,0,8,18,0.63,0.03,0.33999999999999997,Álvaro Iglesias,Lewis Prosser
+United States,Wales,-,-,-,-,-,-,-,-,-,24,18,0.28,0.36,0.36,Ajai Dhadwal,Lewis Prosser
